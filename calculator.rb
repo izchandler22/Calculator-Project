@@ -10,7 +10,6 @@ end
   
 def multiplucation(num1, num2)
   return num1 * num2
-<<<<<<< HEAD
 end
 
 def division(num1, num2)
