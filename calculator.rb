@@ -1,7 +1,6 @@
 #HI YALL
 #CALCULATOR
 def addition(num1, num2)
-
    return num1 + num2 
 end
   
@@ -16,10 +15,6 @@ end
 def square_root(num1)
   return Math.sqrt(num1)
 end
-
-
-
-
 
 def substraction(num1, num2)
   return num1-num2
