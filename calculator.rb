@@ -1,5 +1,8 @@
 #HI YALL
 def addition(num1, num2)
-  return num1 + num2 
+  
 end
-puts addition(3, 198)
+
+def multiplucation(num1, num2)
+  return num1 * num2
+end
