@@ -1,7 +1,6 @@
 #HI YALL
 #CALCULATOR
 def addition(num1, num2)
-
    return num1 + num2 
 end
   
@@ -18,14 +17,15 @@ def square_root(num1)
 end
 
 
+
 def log(num1)
   return Math.log(num1)
 end
 puts square_root(4)
 end
 
-puts division(9, 3)
-puts addition(3, 198)
+
+
 
 
 
