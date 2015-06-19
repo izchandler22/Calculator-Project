@@ -22,7 +22,7 @@ def log(num1)
   return Math.log(num1)
 end
 puts square_root(4)
-end
+
 
 
 
@@ -41,5 +41,4 @@ end
 
 puts division(9, 3)
 puts addition(3, 198)
-
-
+puts log(10)
