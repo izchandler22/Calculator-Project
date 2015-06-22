@@ -1,9 +1,13 @@
 #HI YALL
 #CALCULATOR
+
+puts "How many values?"
+number_values = gets.to_i
+
 def addition(num1, num2)
    return num1 + num2 
 end
-  
+ 
 def multiplication(num1, num2)
   return num1 * num2
 end
